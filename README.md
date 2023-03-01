@@ -10,16 +10,16 @@
     <strong>Do have faith in what you're doing.</strong>
 <p>
     <a href="https://twitter.com/14krsndm">
-        <img alt="14k's Twitter" align="left" width="24px" src="https://github.com/14kk/14k/raw/master/images/twitter.svg"/>
+        <img alt="14k's Twitter" align="left" width="24px" src="https://github.com/14kk/14kk/raw/master/images/twitter.svg"/>
     </a>
     <a href="mailto:14k.rsndm@gmail.com">
-        <img alt="14k's Gmail" align="left" width="24px" src="https://github.com/14kk/14k/raw/master/images/gmail.svg"/>
+        <img alt="14k's Gmail" align="left" width="24px" src="https://github.com/14kk/14kk/raw/master/images/gmail.svg"/>
     </a>
     <a href="http://wpa.qq.com/msgrd?v=3&uin=619113277&site=qq&menu=yes">
-        <img alt="14k's Gmail" align="left" width="24px" src="https://github.com/14kk/14k/raw/master/images/qq.svg"/>
+        <img alt="14k's Gmail" align="left" width="24px" src="https://github.com/14kk/14kk/raw/master/images/qq.svg"/>
     </a>
     <a href="https://weibo.com/u/6088083449">
-        <img alt="14k's Ethereum" align="left" width="24px" src="https://github.com/14kk/14k/raw/master/images/weibo.svg"/>
+        <img alt="14k's Ethereum" align="left" width="24px" src="https://github.com/14kk/14kk/raw/master/images/weibo.svg"/>
     </a>
     <br/>
 </p>
@@ -29,7 +29,7 @@
         <b>More about me</b>
     </summary>
 
-<!-- [![](https://github.com/14kk/14k/blob/master/images/banner.png)](https://14k.com) -->
+<!-- [![](https://github.com/14kk/14kk/blob/master/images/banner.png)](https://14k.com) -->
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -72,6 +72,6 @@ const 14K = {
 ```
 
 <p align="right">
-    Designed with :heart: by <a href="https://github.com/14k" target="_blank">14k</a>.
+    Designed with :heart: by <a href="https://github.com/14kk" target="_blank">14k</a>.
 </p>
 </details>
