@@ -19,7 +19,7 @@
         <img alt="14k's Gmail" align="left" width="24px" src="https://github.com/14kk/14kk/raw/master/images/qq.svg"/>
     </a>
     <a href="https://weibo.com/u/6088083449">
-        <img alt="14k's Ethereum" align="left" width="24px" src="https://github.com/14kk/14kk/raw/master/images/weibo.svg"/>
+        <img alt="14k's Ethereum" align="left" width="24px" src="https://github.com/14kk/14kk/raw/master/images/weibo-2.svg"/>
     </a>
     <br/>
 </p>
