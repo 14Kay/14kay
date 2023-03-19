@@ -29,7 +29,7 @@
         <b>More about me</b>
     </summary>
 
-<!-- [![](https://github.com/14kk/14kk/blob/master/images/banner.png)](https://14k.com) -->
+[![](https://ghproxy.com/https://raw.githubusercontent.com/14kk/14kk/output/github-contribution-grid-snake.svg)](https://14k.top)
 
 <h3 align="center">Languages</h3>
 <p align="center">
