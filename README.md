@@ -61,17 +61,9 @@ const 14K = {
             databases: [ "Mysql", "Redis" ],
             devops: [ "Nginx" ],
         },
-        web3: {
-            languages: [ "Solidity" ],
-            frameworks: [ "vue3", "Next.js" , "Uniapp", ""]
-        },
         systems: [ "Windows","Linux"],
         editors: [ "VS Code" ],
     }
 }
 ```
-
-<p align="right">
-    Designed with :heart: by <a href="https://github.com/14kk" target="_blank">14k</a>.
-</p>
 </details>
