@@ -24,16 +24,13 @@
     </a>
     <br/>
 </p>
-
 <details>
     <summary>
         <b>More about me</b>
     </summary>
 
 [![](https://ghproxy.com/https://raw.githubusercontent.com/14kk/14kk/output/github-contribution-grid-snake.svg)](https://14k.top)
-
 <h3 align="center">Languages</h3>
-
 <p align="center">
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=fff"/>
     <img alt="Node.JS" src="https://img.shields.io/badge/-Nodejs-363636?style=for-the-badge&logo=Node.Js&logoColor=fff"/>
