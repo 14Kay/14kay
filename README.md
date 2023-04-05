@@ -40,10 +40,10 @@
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=fff"/>
 </p>
 
-```typescript
+```javascript
 const 14K = {
     pronouns: [ "He", "Him" ],
-    hobbies: [ "Riding", "Programming", "Music" ],
+    hobbies: [ "Riding", "Programming", "Music" , "Games"],
     languages: [ "TypeScript" ],
     technologyStack: {
         mobile: {
