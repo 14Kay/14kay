@@ -1,3 +1,10 @@
+<!--
+ * @Description: 
+ * @Author: 14K
+ * @Date: 2023-03-01 21:09:20
+ * @LastEditTime: 2023-04-22 13:47:27
+ * @LastEditors: 14K
+-->
 
 <h2>
     <samp>Hi there! I'm 14K. 🦊</samp>
@@ -29,7 +36,7 @@
         <b>More about me</b>
     </summary>
 
-[![](https://ghproxy.com/https://raw.githubusercontent.com/14kk/14kk/output/github-contribution-grid-snake.svg)](https://14k.top)
+[![](https://raw.githubusercontent.com/14kk/14kk/output/github-contribution-grid-snake.svg)](https://14k.top)
 <h3 align="center">Languages</h3>
 <p align="center">
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=fff"/>
