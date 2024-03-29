@@ -14,8 +14,7 @@
        I'm a front-end developer and I like to play with various projects. I love open-source (new folder.jpg >_<, and I'm primarily active on GitHub.
     </samp>
 </p>
-<p>
-    <strong>Do have faith in what you're doing.</strong>
+           
 <p>
     <a href="https://twitter.com/14krsndm">
         <img alt="14k's Twitter" align="left" width="24px" src="https://github.com/14kk/14kk/raw/master/images/twitter.svg"/>
