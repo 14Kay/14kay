@@ -20,7 +20,7 @@
     <a href="https://twitter.com/14krsndm">
         <img alt="14k's Twitter" align="left" width="24px" src="https://github.com/14kk/14kk/raw/master/images/twitter.svg"/>
     </a>
-    <a href="mailto:14k.rsndm@gmail.com">
+    <a href="mailto:rsndm.14k@gmail.com">
         <img alt="14k's Gmail" align="left" width="24px" src="https://github.com/14kk/14kk/raw/master/images/gmail.svg"/>
     </a>
     <a href="http://wpa.qq.com/msgrd?v=3&uin=619113277&site=qq&menu=yes">
