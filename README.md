@@ -17,16 +17,16 @@
            
 <p>
     <a href="https://twitter.com/14krsndm">
-        <img alt="14k's Twitter" align="left" width="24px" src="https://github.com/14kk/14kk/raw/master/images/twitter.svg"/>
+        <img alt="14k's Twitter" align="left" width="24px" src="https://github.com/14kay/14kay/raw/master/images/twitter.svg"/>
     </a>
     <a href="mailto:rsndm.14k@gmail.com">
-        <img alt="14k's Gmail" align="left" width="24px" src="https://github.com/14kk/14kk/raw/master/images/gmail.svg"/>
+        <img alt="14k's Gmail" align="left" width="24px" src="https://github.com/14kay/14kay/raw/master/images/gmail.svg"/>
     </a>
     <a href="http://wpa.qq.com/msgrd?v=3&uin=619113277&site=qq&menu=yes">
-        <img alt="14k's Gmail" align="left" width="24px" src="https://github.com/14kk/14kk/raw/master/images/qq.svg"/>
+        <img alt="14k's Gmail" align="left" width="24px" src="https://github.com/14kay/14kay/raw/master/images/qq.svg"/>
     </a>
     <a href="https://weibo.com/u/6088083449">
-        <img alt="14k's Ethereum" align="left" width="24px" src="https://github.com/14kk/14kk/raw/master/images/weibo-2.svg"/>
+        <img alt="14k's Ethereum" align="left" width="24px" src="https://github.com/14kay/14kay/raw/master/images/weibo-2.svg"/>
     </a>
     <br/>
 </p>
@@ -37,7 +37,7 @@
 
 [
         <br/>
-![](https://raw.githubusercontent.com/14kk/14kk/output/github-contribution-grid-snake.svg)](https://14k.top)
+![](https://raw.githubusercontent.com/14kay/14kay/output/github-contribution-grid-snake.svg)](https://14k.top)
 <h3 align="center">Languages</h3>
 <p align="center">
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=fff"/>
